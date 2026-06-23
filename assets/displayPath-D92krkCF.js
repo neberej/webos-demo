@@ -1,0 +1,1 @@
+function e(e){let t=e.replace(/\\/g,`/`).replace(/^C:\/?/i,``).replace(/\/$/,``);return t?`/${t}`:`/`}export{e as t};
